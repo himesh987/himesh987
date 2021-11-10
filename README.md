@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @himesh987
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently learning Data structures and Algorithms
-- 💞️ I’m looking to collaborate on projects based on front end
+- 💞️ I’m looking to collaborate on projects based on front end development
 - 📫 You can reach me via my linkdin profile.
 
 <!---
